@@ -13,6 +13,9 @@ K-Means groups nodes effectively, but results depend on the chosen k value and d
 Files and Folders Description
 
 kmeans.py - the main Python script.
+
 cmd-run.png - screenshot of the CMD execution.
-output-k7 - contains the output plots for K = 7 clusters.
+
+output-k7 - contains the output plots for K = 7 clusters.  
+
 output-k3 - contains the output plots for K = 3 clusters.
